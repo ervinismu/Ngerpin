@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'ngerpin'
+puts Ngerpin.hi(ARGV[0])
